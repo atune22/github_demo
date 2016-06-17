@@ -1,0 +1,17 @@
+body{
+	background-color: aqua;
+
+}
+
+h1 {
+	color:black;
+
+}
+div.shape{
+	background-color: black;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+}
+div#circle{
+	border-radius:100%;}
